@@ -1,1 +1,4 @@
-print("طافي")
+ game.StarterGui:SetCore("SendNotification", {
+            Title = "Nothing"; 
+            Text = ""; 
+            })
