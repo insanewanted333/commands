@@ -1,1 +1,6 @@
-wait untill it back
+
+  game.StarterGui:SetCore("SendNotification", {
+            Title = "صار مشكل بل موقع"; 
+            Text = "بيرجع بعد كم ساعه"; 
+            })
+
